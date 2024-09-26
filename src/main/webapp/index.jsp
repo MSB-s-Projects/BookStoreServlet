@@ -9,6 +9,10 @@
     <%= "Book Store Servlet App" %>
 </h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+<ul>
+    <li><a href="hello-servlet">Hello Servlet</a></li>
+    <li><a href="books">Get Books</a></li>
+    <li><a href="books"> Add Book </a></li>
+</ul>
 </body>
 </html>
